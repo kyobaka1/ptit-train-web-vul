@@ -5,9 +5,7 @@
     <bookmark url="file://$PROJECT_DIR$/core/config/init.php" description="$main_context = array(&#10;    &quot;home&quot; =&gt; &quot;core/main/ho..." line="0" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fa68b01-bf9a-4176-8545-6d498b53ac9d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/core/config/config.php" afterPath="$PROJECT_DIR$/core/config/config.php" />
-    </list>
+    <list default="true" id="4fa68b01-bf9a-4176-8545-6d498b53ac9d" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="config.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/config/config.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="20">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -76,7 +74,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="friends.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="friends.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/core/main/friends.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="480">
@@ -499,11 +497,12 @@
       <workItem from="1545356134377" duration="4037000" />
       <workItem from="1545547920525" duration="15000" />
       <workItem from="1545548680588" duration="8000" />
+      <workItem from="1545549170693" duration="4000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="226376000" />
+    <option name="totallyTimeSpent" value="226380000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -980,6 +979,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/core/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/core/main/friends.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -995,14 +1002,6 @@
             <marker date="1545358369344" expanded="true" signature="1186:1209" ph="SELECT * FRO... friends_r" />
             <marker date="1545358369344" expanded="true" signature="1186:1232" ph="SELECT * FRO... friends_root" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/config/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
