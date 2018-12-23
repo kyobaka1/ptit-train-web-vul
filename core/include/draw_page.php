@@ -64,6 +64,9 @@ function print_footer_status($id_post,$title){
         $html .= '    <script>
         $(document).ready(function(){
             $("#change-btn").click(function(){
+                
+                
+                
                 $("#change-status-model").show();
             });
             $(".close-dialog").click(function(){

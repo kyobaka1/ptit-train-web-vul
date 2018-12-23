@@ -37,3 +37,12 @@ function make_folder(){
         }
     }
 }
+function get_score_by_name($name){
+    $URL = "https://www.root-me.org/".$name."?inc=score&lang=en";
+    $content = get($URL)['content'];
+    $score_now = get_score_from_content($content, $name);   // Get score.
+    if(!$score_now){
+        return 0;
+    }
+    return $score_now;
+}

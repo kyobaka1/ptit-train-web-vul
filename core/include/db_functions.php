@@ -29,4 +29,5 @@ function reset_csdl(){
     $conn->query("INSERT INTO csrf_account(username,password,taikhoan) VALUES('bob','bob123',10000);");
     $conn->query("INSERT INTO sqli_users(uname,pass,privilege) VALUES('Bob','bob123',1);");
     $conn->query("INSERT INTO sqli_products(id,tensanpham,gia,nguoiban) VALUES(1,'Iphone-X',1000000,'Apple'),(2,'Samsung Galaxy J7+',200000,'Samsung'),(3,'PS Kem Đánh Răng',20000,'PS'),(4,'Quạt Senko',10000,'Senko');");
+    $conn->query("CREATE TABLE IF NOT EXISTS friends_root(id INT UNSIGNED NOT NULL AUTO_INCREMENT,root_name VARCHAR(200), real_name VARCHAR (300), score int, PRIMARY KEY(id));");
 }

@@ -2,7 +2,7 @@
 
 $menuBlocks['home'] = array( 'id_post'=>'0','url' => 'core/main/home.php', 'url_example' => '', 'src_youtube' => 'https://www.youtube.com/embed/L486ETZbu28');
 $menuBlocks['settings'] = array( 'id_post'=>'0' , 'url' => 'core/main/settings.php', 'url_example' => '', 'src_youtube' => '');
-$menuBlocks['friends'] = array( 'id_post'=>'0' , 'url' => 'core/main/friends.php', 'url_example' => '', 'src_youtube' => '');
+$menuBlocks['friends'] = array( 'id_post'=>'0' , 'url' => 'core/main/friends.php', 'url_example' => '', 'src_youtube' => '', 'parent'=>'home');
 $menuBlocks['about-me'] = array( 'id_post'=>'0' , 'url' => 'core/main/about-me.php', 'url_example' => '', 'src_youtube' => '');
 $menuBlocks['owasp'] = array('id_post'=>'0','url' => 'core/main/owasp.php', 'url_example' => '', 'src_youtube' => 'https://www.youtube.com/embed/RGA5kLO9vjs');
 # SQLI

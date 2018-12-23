@@ -1,8 +1,8 @@
 <?php 
-$config['install'] = '1';
-$config['user_root_me'] = 'N14DCAT138';
+$config['install'] = '0';
+$config['user_root_me'] = 'VuongThieu';
 $config['db_name'] = 'ptithcm_train';
 $config['db_user'] = 'root';
 $config['db_pass'] = '';
-$config['user_score'] = '25';
+$config['user_score'] = '1725';
 ?>
