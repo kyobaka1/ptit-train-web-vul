@@ -86,3 +86,6 @@ Ta có thể truy cập bằng trình duyệt vào đường dẫn:
 User mặc định của CSDL là: root / mật khẩu để trống
 Nếu cài ở máy chủ khác, thay localhost bằng domain hoặc địa chỉ IP của máy chủ.
 Sau đó tạo một CSDL và tài khoản có quyền trên CSDL đó. Hoặc dùng mặc định cung cấp là tài khoản root.
+
+> https://beezo.vn
+> [Beezo](https://www.google.com)
