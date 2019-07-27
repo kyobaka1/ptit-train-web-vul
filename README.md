@@ -88,4 +88,4 @@ Nếu cài ở máy chủ khác, thay localhost bằng domain hoặc địa ch�
 Sau đó tạo một CSDL và tài khoản có quyền trên CSDL đó. Hoặc dùng mặc định cung cấp là tài khoản root.
 
 > https://beezo.vn
-> [Beezo](https://www.google.com)
+> [Beezo](https://beezo.vn)
